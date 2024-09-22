@@ -29,4 +29,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ghcr.io/pepper_phil/tool-share:latest
+          tags: ghcr.io/pepperphil/tool-share:latest
