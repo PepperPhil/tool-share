@@ -29,4 +29,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ghcr.io/pepperphil/tool-share:latest
+          tags: ghcr.io/${{ github.repository_owner }}/tool-share:latest
