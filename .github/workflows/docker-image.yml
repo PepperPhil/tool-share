@@ -30,3 +30,4 @@ jobs:
           context: .
           push: true
           tags: ghcr.io/pepperphil/tool-share:latest
+          platforms: linux/amd64,linux/arm64
